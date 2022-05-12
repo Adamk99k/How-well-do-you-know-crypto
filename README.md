@@ -25,6 +25,9 @@ want to see the mockup? Here it is.
 ## Question Answers.
 * The question answers are a simple mutichoice A,B or C buttons. The aim was to make these answers chnage color and alert the user of if they were correct or not, Witha  red or green color displaying over the answer they picked.
 
+## Submit button
+* This buttion is placed at the bottom of the screen, Once the user has completed the questions they can get there score via an alert once clicking the submit buttion.
+
 # Features left to implement.
 * Unfortanly due to personal time issues, I didnt have enoghe time to add any interactive features. I Hope i get the opertaunity to redo this project to the standard i wanted.
 
