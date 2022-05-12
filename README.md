@@ -37,7 +37,7 @@ View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-cryp
 # Lighthouse Report
 * On the index.html page i clicked inspect element then pressed lighthouse in the top right corner. This genarates a report. Here that is...
 
-<img src="/workspace/How-well-do-you-know-crypto/assets/images/lighthouseReport.png" max-width= 100%; height=700px>
+<img src="assets/images/lighthouseReport.png" max-width= 100%; height=700px>
 
 #
 # Deployment
