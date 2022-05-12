@@ -22,3 +22,8 @@ section {
     height: 250px;
     display: inline-flex;
 }
+
+h3 {
+    text-align: center;
+    height: fit-content;
+}
