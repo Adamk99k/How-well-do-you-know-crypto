@@ -1,0 +1,24 @@
+body{
+    background-image: url("/assets/images/background-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header-text {
+    color: white;
+    text-align: center;
+}
+
+#header-sub-text{
+    color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+
+section {
+    background-color: gray;
+    margin: 2%;
+    width: 25%;
+    height: 250px;
+    display: inline-flex;
+}
