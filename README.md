@@ -37,3 +37,17 @@ want to see the mockup? Here it is.
 * On the index.html page i clicked inspect element then pressed lighthouse in the top right corner. This genarates a report. Here that is...
 
 <img src="/workspace/How-well-do-you-know-crypto/assets/images/lighthouseReport.png" max-width= 100%; height=700px>
+
+#
+# Deployment
+* Before the website was deployed,
+I had to use a temporary site ( Http.server ) to see the live changes while coding, To do this I used the ( Python3 -m http.server ) command in GitPod and that allowed me to see a live preview of my site while coding.
+
+* The project was deployed on GitHub Pages.
+I used Gitpod as a development environment where I then committed all changes to github, I used (Git commit -m "" ) then (Git push) command in Gitpod to save changes to GitHub.
+
+* Once my site was ready to deploy online, I had to:
+Log in to GitHub and click on repository to deploy (How-Well-Do-You-Know-Crypto) select Settings and find GitHub Pages section at the very bottom of the page from source select none and then change the branch from "none" to "main" then once that was done, I clicked save and the site was deployed after a refresh of the page.
+#
+
+View the live site <a href="">Here</a>
