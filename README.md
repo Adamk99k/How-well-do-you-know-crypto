@@ -56,3 +56,8 @@ View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-cryp
 # TESTING BROWSERS.
 * To test if my site works on diffrent browsers i copy and pasted the live site link into. Google.Chrome/Firefox/Brave/WindowsExplorer and the site loaded without issue on all browsers.
 
+# CREDITS 
+* Background image was take from <a href="https://wallpapercave.com/black-gradient-wallpaper">Here</a>
+* Thanks to the amazing slack comunity for helping me when i needed it.
+* Thanks to code institute for providing me the learning metiral.
+
