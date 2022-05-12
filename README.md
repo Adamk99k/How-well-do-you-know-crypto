@@ -8,7 +8,8 @@ This provides value for the user and keeps them intrested as they work throh the
 <br>
 <br> 
 When designing this project i had in mind a very simple looking site. For the actual WireFrame / mockup i used <a href="https://balsamiq.com/">Balsamiq Wireframes.</a><br>
-want to see the mockup? Here it is.
+want to see the mockup? Here it is.#<br>
+View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
 </p>
 <img src="assets/images/Wireframe.png" alt="image of mockup wireframe" style="max-width: 100%;">
 
@@ -50,4 +51,8 @@ I used Gitpod as a development environment where I then committed all changes to
 Log in to GitHub and click on repository to deploy (How-Well-Do-You-Know-Crypto) select Settings and find GitHub Pages section at the very bottom of the page from source select none and then change the branch from "none" to "main" then once that was done, I clicked save and the site was deployed after a refresh of the page.
 #
 
-View the live site <a href="">Here</a>
+View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
+
+# TESTING BROWSERS.
+* To test if my site works on diffrent browsers i copy and pasted the live site link into. Google.Chrome/Firefox/Brave/WindowsExplorer and the site loaded without issue on all browsers.
+
