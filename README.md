@@ -33,4 +33,7 @@ want to see the mockup? Here it is.
 
 * I would also like to implement a mini snakes and ladders game on a secand page but replace the snakes and ladders with crypto coins.
 
-# 
+# Lighthouse Report
+* On the index.html page i clicked inspect element then pressed lighthouse in the top right corner. This genarates a report. Here that is...
+
+<img src="/workspace/How-well-do-you-know-crypto/assets/images/lighthouseReport.png" max-width= 100%; height=700px>
