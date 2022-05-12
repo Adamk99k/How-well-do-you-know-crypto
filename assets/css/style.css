@@ -43,3 +43,18 @@ button {
 div {
     height: 63px
 }
+
+#btm-div{
+    float: left;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#submit {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
