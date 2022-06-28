@@ -11,7 +11,7 @@ When designing this project I had in mind a very simple looking site. For the ac
 want to see the mockup? Here it is.<br>
 View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
 </p>
-<img src="/workspace/How-well-do-you-know-crypto/assets/images/cryptoQuizJS-lucidChart.png" alt="image of mockup wireframe" style="max-width: 100%;">
+<img src="assets/images/cryptoQuizJS-lucidChart.png" alt="image of mockup wireframe" style="max-width: 100%;">
 
 # Features.
 ## index.html header - "Welcome to the Crypto Mini Question and Answer Test" 
