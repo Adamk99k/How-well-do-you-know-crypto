@@ -10,17 +10,22 @@
 </head>
 <body>
 
+    <!-- Header welcome's user, Position at top center of screen -->
     <h1 id="header-text">Welcome to the Crypto Mini Question and Answer Test.<br>
         Let's begin.<br> Follow along and see what you score.</h1>
+
     <div id="container">
+        <!-- Div #container will be the container of all questions, This makes sizing much more easy -->
         <span id="questionOne">
             <div class="questionDiv">
                 <h2>What is the largest Coin by Market Cap?</h2>
                 <input type="text" id="q1text" placeholder="Enter your answer now: ">
+                <!-- Adding an ID to both the 'input' and 'button' is a very important part. -->
                 <button type="button" id="q1button" >Submit . . .</button>
             </div>
         </span>
 
+        <!-- Question Two,Three,Four,Five,Siz all follow the same principles as Question One. -->
         <span id="questionTwo">
             <div class="questionDiv">
                 <h2>What was the name of the FIRST Altcoin that was created after BitCoin? </h2>
@@ -36,7 +41,7 @@
                 <button type="button" id="q3button" >Submit . . .</button>
             </div>
         </span>
-
+        <!-- Using 'span' elements worked out easier than using divs due to how they position thereselfs. -->
         <span id="questionFour">
             <div class="questionDiv">
                 <h2>What is the TICKER Symbol of the largest AltCoin ?</h2>
@@ -63,7 +68,10 @@
     </div>
     <div id="scorePageContainer">
         <div id="scorePageDiv">
+            <!-- This text will act like a seprate page at the end of our user's visit -->
+            <!-- #scorePageContainer - Display is set to 'none' but once user clicks 'Check Score' Javascript will change display to 'block'. -->
             <h2>From all Questions answered. . .  </h2>
+            <!-- #finalScore will be manipulated and changed using Javascript to place in the user's score. Once completed. -->
             <h2 id="finalScore">PLACEHOLDER TEXT</h2>
             <h2>We really love and appreciate all Participants </h2>
             <h2>So before you leave, We would love to Educate you on crypto... Here are some fun facts.</h2>
@@ -79,6 +87,7 @@
     </div>
 
     <footer>
+        <!-- This button will set the questions main container to 'None', Hiding everything that was seen before the button click. -->
         <button id="checkScore" type="button">Check Score.</button>
     </footer>
 
