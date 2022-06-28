@@ -1,43 +1,41 @@
 # How well do you know Crypto?
 <p>
 How well do you know crypto is a questionnaire / quiz game for crypto enthusiasts who want to test there basic knowledge on crypto related topics. <br>
-This sites aim is to be a fully responsive site, That interacts with the user by either alerting them if there answer was right or by changing the color of the buttons.<br>
+This sites aim is to be a fully responsive site, That interacts with the user by alerting them if there answer was right by changing the color of the space around the input field.<br>
 The target audience for this site is anyone who knows about crypto as the questions asked are not that hard.
 The end goal for the user is to see if they need to go and learn anything based on incorrect answers.<br>
 This provides value for the user and keeps them interested as they work through the questions.
 <br>
 <br> 
 When designing this project I had in mind a very simple looking site. For the actual Mockup I used <a href="https://www.lucidchart.com/pages/">Lucid Chart</a><br>
-want to see the mockup? Here it is.#<br>
+want to see the mockup? Here it is.<br>
 View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
 </p>
 <img src="/workspace/How-well-do-you-know-crypto/assets/images/cryptoQuizJS-lucidChart.png" alt="image of mockup wireframe" style="max-width: 100%;">
 
 # Features.
-## index.html header - This is the main header text "How well do you know crypto?" 
-* This header text's aim is to ask the user a question that they answer in there head. It sets a challenge for the user and makes the site more personal.
+## index.html header - "Welcome to the Crypto Mini Question and Answer Test" 
+* This header text's aim is to welcome the user and get straight into the Questions without overwhelming the user.
 
 ## Background Color/Image.
-* The body background is a black to gray gradient image I took from Google, This gives the site a serious feeling as well as a cool color scheme.
+* The body background is a Purple/Blue linear-gradient(to right, #8e2de2, #4a00e0);
 
 ## Six Questions.
 * The six questions I used are some of the basic things a beginner should know, These questions are made to seem easy for the user but puts them to the test when they have to answer them.
 
 ## Question Answers.
-* The question answers are a simple multiple choice A,B or C buttons. The aim was to make these answers change color and alert the user of if they were correct or not, With  red or green color displaying over the answer they picked.
+* The questions answers are simple, Once the user has entered their answer in the input field, A onClick function is triggered for each input field, This function will do tasks depending on what the user has entered.
 
 ## Submit button
-* This button is placed at the bottom of the screen, Once the user has completed the questions they can get there score via an alert once clicking the submit button.
+* This button is placed at the bottom of the screen, Once the user has completed the questions they can get there score, Once this button has been clicked it sets the container for the questions, Display to 'none'. This will allow me to use the page as if it has nothing on. 
 
 # Features left to implement.
-* Unfortunately due to personal time issues, I didn't have enough time to add any interactive features. I Hope I get the opportunity to redo this project to the standard I wanted.
+* One of the features I didn't get a chance to implement is. A function that only allows the user to try an input field a maximum number of times of (3). This would give some urgency to the user and prevent them from having unlimited tries.
 
-* I would also like to implement a mini snakes and ladders game on a second page but replace the snakes and ladders with crypto coins.
+* The main thing I could not implement was a section dedicated to One question at a time, Meaning once the user has submitted the first question only then will the new question appear. I couldn't do this efficiently for all of my questions so I didn't implement this feature.
 
 # Lighthouse Report
-* On the index.html page I clicked inspect element then pressed lighthouse in the top right corner. This generates a report. Here that is...
-
-<img src="assets/images/lighthouseReport.png" max-width= 100%; height=700px>
+* PLACEHOLDER !
 
 #
 # Deployment
