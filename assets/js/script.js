@@ -28,8 +28,7 @@ document.getElementById("q1button").onclick = function() {
 document.getElementById("q2button").onclick = function() {
     /* 
     When the submit button is clicked for Question Two, This function will grab the value of user input/Answer 
-    and store it in an new variable named ('q2Answer') this variable then can be used in If statements to determine what to do bassed 
-    on users input.
+    and store it in a new variable named ('q2Answer') this variable, then can be used within If statements to determine what to do.
     */
     var q2Answer = document.getElementById("q2text").value.toLowerCase();
 
