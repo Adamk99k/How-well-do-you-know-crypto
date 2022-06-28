@@ -1,7 +1,5 @@
 body{
-    background-color: gray;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
     height: 90vh;
 }
 
