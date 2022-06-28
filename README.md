@@ -11,7 +11,9 @@ When designing this project I had in mind a very simple looking site. For the ac
 want to see the mockup? Here it is.<br>
 View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
 </p>
-<img src="assets/images/cryptoQuizJS-lucidChart.png" alt="image of mockup wireframe" style="max-width: 100%;">
+
+## Lucid Chart MockUp.
+<img src="assets/images/cryptoQuizJS-lucidChart.png" alt="image of mockup wireframe" style="max-width: 100%" height="600px">
 
 # Features.
 ## index.html header - "Welcome to the Crypto Mini Question and Answer Test" 
@@ -29,6 +31,16 @@ View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-cryp
 ## Submit button
 * This button is placed at the bottom of the screen, Once the user has completed the questions they can get there score, Once this button has been clicked it sets the container for the questions, Display to 'none'. This will allow me to use the page as if it has nothing on. 
 
+## Infomation when user gets correct answer...
+* When the user enters the correct answer, Not only will the color of the box change color, but a short, Helpful text block of information appears to educate the user further.
+
+## Pictures of deployed project.
+<img style="max-width: 100%" alt="Live site shot" src="assets/images/liveAppScreenshot.png">
+
+## Here is the score page where the user will get their score with some complementary fun facts. This engages the user further before leaving the site.
+
+<img alt="Live shot of Score page" src="assets/images/scorePage.png" style="max-width: 100%" height="900px">
+
 # Features left to implement.
 * One of the features I didn't get a chance to implement is. A function that only allows the user to try an input field a maximum number of times of (3). This would give some urgency to the user and prevent them from having unlimited tries.
 
@@ -41,6 +53,8 @@ View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-cryp
 # Deployment
 * Before the website was deployed,
 I had to use a temporary site ( Http.server ) to see the live changes while coding, To do this I used the ( Python3 -m http.server ) command in GitPod and that allowed me to see a live preview of my site while coding.
+
+* I later installed an extension named 'Live viewer' this hosted a local instant preview of my code, Making it a more comfortable environment.
 
 * The project was deployed on GitHub Pages.
 I used Gitpod as a development environment where I then committed all changes to github, I used (Git commit -m "" ) then (Git push) command in Gitpod to save changes to GitHub.
