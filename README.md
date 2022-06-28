@@ -47,7 +47,8 @@ View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-cryp
 * The main thing I could not implement was a section dedicated to One question at a time, Meaning once the user has submitted the first question only then will the new question appear. I couldn't do this efficiently for all of my questions so I didn't implement this feature.
 
 # Lighthouse Report
-* PLACEHOLDER !
+* When testing my app via LightHouse the only issue I had to correct was my HTML document not having a meta description. Once I resolved this and retested my app. There were no issues shown.
+<img alt="Lighthouse report" style="width: max-width: 100%" src="assets/images/lighthouseTest.png">
 
 #
 # Deployment
