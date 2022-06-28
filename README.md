@@ -7,11 +7,11 @@ The end goal for the user is to see if they need to go and learn anything based 
 This provides value for the user and keeps them interested as they work through the questions.
 <br>
 <br> 
-When designing this project I had in mind a very simple looking site. For the actual WireFrame / mockup I used <a href="https://balsamiq.com/">Balsamiq Wireframes.</a><br>
+When designing this project I had in mind a very simple looking site. For the actual Mockup I used <a href="https://www.lucidchart.com/pages/">Lucid Chart</a><br>
 want to see the mockup? Here it is.#<br>
 View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
 </p>
-<img src="assets/images/Wireframe.png" alt="image of mockup wireframe" style="max-width: 100%;">
+<img src="/workspace/How-well-do-you-know-crypto/assets/images/cryptoQuizJS-lucidChart.png" alt="image of mockup wireframe" style="max-width: 100%;">
 
 # Features.
 ## index.html header - This is the main header text "How well do you know crypto?" 
@@ -57,7 +57,6 @@ View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-cryp
 * To test if my site works on different browsers I copy and pasted the live site link into. Google.Chrome/Firefox/Brave/WindowsExplorer And the site loaded without issue on all browsers.
 
 # CREDITS 
-* Background image was take from <a href="https://wallpapercave.com/black-gradient-wallpaper">Here</a>
 * Thanks to the amazing slack community for helping me when I needed it.
 * Thanks to code institute for providing me the learning material.
 

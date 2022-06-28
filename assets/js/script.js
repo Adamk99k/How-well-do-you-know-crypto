@@ -9,7 +9,7 @@ document.getElementById("q1button").onclick = function() {
         console.log("Users input was " + q1Answer, "This was Incorect.");
     } else {
         document.getElementById("questionOne").style.background = 'DarkGreen';
-        document.querySelector("h2").innerHTML = "Correct. <br> Bitcoin is a decentralized digital currency that is based on cryptography. As such, it can operate without the need of a central authority like a central bank or a company. Its by far the largest coin by MarketCap.";
+        document.querySelector("h2").innerHTML = "Correct. <br> Bitcoin is a decentralized digital currency that is based on cryptography. As such, it can operate without the need of a central authority like a central bank or a company. Its by far the largest coin by Market Cap.";
         console.log("Answer was correct ! ! !")
         userScore++
     }
