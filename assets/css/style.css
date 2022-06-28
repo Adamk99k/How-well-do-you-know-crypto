@@ -27,14 +27,12 @@ body{
     display: flex;
     width: 50%;
     height: 33%;
-    background-color: rgb(0, 124, 233);
 }
 
 #questionTwo {
     display: flex;
     width: 50%;
     height: 33%;
-    background-color: rgb(247, 14, 83);
 }
 
 #questionThree {
@@ -42,14 +40,12 @@ body{
     display: flex;
     width: 50%;
     height: 33%;
-    background-color: rgb(205, 18, 230);
 }
 
 #questionFour {
     display: flex;
     width: 50%;
     height: 33%;
-    background-color: rgb(18, 188, 230);
 }
 
 #questionFive {
@@ -57,13 +53,11 @@ body{
     display: flex;
     width: 50%;
     height: 33%;
-    background-color: rgb(236, 19, 19);
 }
 
 #questionSix {
     display: flex;
     width: 50%;
     height: 33%;
-    background-color: rgb(16, 241, 54);
 }
 
