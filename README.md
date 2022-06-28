@@ -1,19 +1,20 @@
 # How well do you know Crypto?
 <p>
-How well do you know crypto is a questionnaire / quiz game for crypto enthusiasts who want to test there basic knowledge on crypto related topics. <br>
-This sites aim is to be a fully responsive site, That interacts with the user by alerting them if there answer was right by changing the color of the space around the input field.<br>
+How well do you know crypto. Is a Questionnaire / Quiz App for Crypto Enthusiasts who want to test their basic knowledge on crypto related topics. <br>
+This sites aim is to be a fully responsive site, That interacts with the user, alerting them if their answer was right by changing the color of the space around the input field.<br>
 The target audience for this site is anyone who knows about crypto as the questions asked are not that hard.
 The end goal for the user is to see if they need to go and learn anything based on incorrect answers.<br>
 This provides value for the user and keeps them interested as they work through the questions.
 <br>
-<br> 
-When designing this project I had in mind a very simple looking site. For the actual Mockup I used <a href="https://www.lucidchart.com/pages/">Lucid Chart</a><br>
+When designing this project I had in mind a very simple looking site. <br>For the actual Mockup I used <a href="https://www.lucidchart.com/pages/">Lucid Chart.</a><br>
 want to see the mockup? Here it is.<br>
-View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
 </p>
 
 ## Lucid Chart MockUp.
 <img src="assets/images/cryptoQuizJS-lucidChart.png" alt="image of mockup wireframe" style="max-width: 100%" height="600px">
+
+## View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here.</a>
+
 
 # Features.
 ## index.html header - "Welcome to the Crypto Mini Question and Answer Test" 
@@ -64,12 +65,11 @@ I used Gitpod as a development environment where I then committed all changes to
 Log in to GitHub and click on repository to deploy (How-Well-Do-You-Know-Crypto) select Settings and find GitHub Pages section at the very bottom of the page from source select none and then change the branch from "none" to "main" then once that was done, I clicked save and the site was deployed after a refresh of the page.
 #
 
-View the live site <a href="https://adamk99k.github.io/How-well-do-you-know-crypto/">Here</a>
-
 # TESTING BROWSERS.
 * To test if my site works on different browsers I copy and pasted the live site link into. Google.Chrome/Firefox/Brave/WindowsExplorer And the site loaded without issue on all browsers.
 
 # CREDITS 
-* Thanks to the amazing slack community for helping me when I needed it.
+* Thanks to the amazing <a href="https://slack.com/intl/en-gb/">slack </a>community for helping me when I needed it.
 * Thanks to code institute for providing me the learning material.
+* <a href="https://medium.datadriveninvestor.com/21-fun-facts-about-crypto-304a8a86d746">Used this link to find some new facts about bitcoin and other crypto projects.</a>
 
